@@ -1,0 +1,10 @@
+assistant.log
+assistant.pid
+assistant.sock
+en_US-amy-medium.onnx
+en_US-amy-medium.onnx.json
+/.venv
+/__pycache__
+listening.wav
+test.wav
+memory.json
